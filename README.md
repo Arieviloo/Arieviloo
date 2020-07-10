@@ -7,13 +7,12 @@
 ### Hello, I'm Jadiê! 👋
 
 💻 Front-end developer at Mobills <br>
-🏡 Brazilian i live in Fortaleza-CE
+🏡 Brazilian, I live in Fortaleza-CE
   
 
 ### Find me around the web 🌎
 
 💼 https://www.linkedin.com/in/jadie-oliveira/ <br>
-🐦 https://twitter.com/arievilooo <br>
 🚀 https://arieviloo.github.io/ <br>
 
 Cheers!
