@@ -6,7 +6,7 @@
 
 ### Hello, I'm Jadiê! 👋
 
-💻 Front-end developer at Mobills <br>
+💻 Software engineer at iDinheiro. <br>
 🏡 Brazilian, I live in Fortaleza-CE
   
 
