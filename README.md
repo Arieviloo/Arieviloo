@@ -6,7 +6,7 @@
 
 ### Hello, I'm Jadiê! 👋
 
-💻 Software engineer at iDinheiro. <br>
+💻 Software engineer. <br>
 🏡 Brazilian, I live in Fortaleza-CE
   
 
