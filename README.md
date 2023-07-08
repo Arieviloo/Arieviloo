@@ -11,9 +11,7 @@
 🏡 Brazilian, I live in Fortaleza-CE.
 
   
-
 ### Find me around the web 🌎
-
 💼 https://www.linkedin.com/in/jadie-oliveira/ <br>
 🚀 https://arieviloo.github.io/ <br>
 
