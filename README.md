@@ -13,5 +13,9 @@
 💼 https://www.linkedin.com/in/jadie-oliveira/ <br>
 
 
+ <i class="devicon-swift-plain colored"></i>
+          
+
+
 Cheers!
 </samp>
