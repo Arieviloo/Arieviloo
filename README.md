@@ -6,7 +6,7 @@
 
 ### Hello, I'm Jadiê! 👋
 💻 Software engineer. <br>
-📱 Aspirant developer IOS. <br>
+📱 IOS developer. <br>
 🏡 Brazilian, I live in Fortaleza-CE.
 
 ### Find me around the web 🌎
